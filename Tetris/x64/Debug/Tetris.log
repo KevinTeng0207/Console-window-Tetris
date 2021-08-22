@@ -1,0 +1,5 @@
+﻿  Function.cpp
+  main.cpp
+c:\users\user\source\vs source\tetris\tetris\main.cpp(53): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  Tetris.vcxproj -> C:\Users\User\source\VS Source\Tetris\x64\Debug\Tetris.exe
